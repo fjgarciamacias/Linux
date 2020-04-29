@@ -8,7 +8,7 @@ screen -r <screen-name>: Reattach to an existing secreen session, otherwise it c
   * grep -E: egrep
 * egrep (Extended Global Regular Expressions Print): PATTERN is an extended regular expression (ERE)
 
-`egrep -v '^#|^$'`: Delete comments(#) and new lines
+`egrep -v '^#|^$'`: Delete comments (#) and new lines
 
 # shortcuts
 `Ctrl` + `d`: Exits from the current terminal session
