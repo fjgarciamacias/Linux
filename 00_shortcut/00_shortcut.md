@@ -2,7 +2,7 @@
 
 ## Search
 
-`<characters>` + `TAB`: autocomplete
+`<characters>` + `TAB`: autocomplete the current command
 
 `<characters>`  + `TAB` + `TAB`:  show posibilites for auto complete
 
