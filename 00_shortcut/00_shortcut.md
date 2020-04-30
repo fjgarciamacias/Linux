@@ -52,6 +52,8 @@
 
 `Ctrl` + `Y`: paste a word, you need to use `Ctrl` + `W` first
 
+`Alt` + `.`: use the last word of the previous command
+
 ## Change
 
 `Alt` + `T`: swap the current word  with the previous word
