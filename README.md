@@ -1,15 +1,8 @@
-# screen
-`screen -S <screen-name>`: Creates a new screen session
+# Linux reference
 
-`screen -r <screen-name>`: Reattach to an existing secreen session, otherwise it creates a new one
-`Ctrl` + `A` + `D`: Detach a screen session
+## Index
 
-# grep
-* grep (Global Regular Expressions Print)
-  * grep -E: egrep
-* egrep (Extended Global Regular Expressions Print): PATTERN is an extended regular expression (ERE)
-
-`egrep -v '^#|^$'`: Delete comments (#) and new lines
-
-# shortcuts
-`Ctrl` + `D`: Exits from the current terminal session
+1. [Shortcuts](00_shortcut/00-shortcut.md)
+2. [Commands](01_command)
+   * [Standard](01_command/00_standard.md)
+   * [Non-Standard](01_command/01_non_standard.md)
