@@ -10,7 +10,7 @@
 
 
 
-## Busqueda
+## Search
 
 * `grep`: *Global Regular Expressions Print*
   * `grep -E` == `egrep`
