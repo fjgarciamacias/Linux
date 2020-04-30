@@ -10,4 +10,4 @@
 
 ## References
 
-* https://www.kernel.org/doc/man-pages/
+* Official Linux `man` pages: https://www.kernel.org/doc/man-pages/
