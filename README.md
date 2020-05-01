@@ -11,3 +11,4 @@
 ## References
 
 * Official Linux `man` pages: https://www.kernel.org/doc/man-pages/
+* Online terminal: https://copy.sh/v86/
